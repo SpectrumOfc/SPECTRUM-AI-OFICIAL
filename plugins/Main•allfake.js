@@ -33,10 +33,10 @@ let user = global.db.data.users[who]
 let pushname = m.pushName || 'Sin nombre'
 
 //creador y otros
-global.creador = 'Wa.me/51923300039'
+global.creador = 'Wa.me/5214274130309'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'https://wa.me/message/BTJGZ2PHZGQZO1'
-global.namechannel = 'Ai Otho - Channel'
+global.namechannel = '𝐒𝐏𝐄𝐂𝐓𝐑𝐔𝐌 | 𝐀𝐈'
 
 //Reacciones De Comandos.!
 global.rwait = '🕒'
