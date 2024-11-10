@@ -27,9 +27,9 @@ let handler = async (m, { conn: star, command, args, text }) => {
   }
 }
 
-handler.help = ['mp3 *<búsqueda>*']
-handler.tags = ['mp3']
-handler.command = ['mp3']
+handler.help = ['mp4 *<búsqueda>*']
+handler.tags = ['mp4']
+handler.command = ['mp4']
 // handler.register = true 
 export default handler
 
