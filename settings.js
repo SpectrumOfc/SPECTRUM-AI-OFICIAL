@@ -38,7 +38,7 @@ global.baileys = 'V 6.7.8'
 global.vs = '2.0.7'
 global.languaje = 'Español'
 global.nameqr = 'Ai Otho'
-global.namebot = '𝐒𝐏𝐄𝐂𝐓𝐑𝐔𝐌 | 𝐀𝐈'
+global.namebot = 'Ai Otho - MD'
 global.sessions = 'OthoSession'
 global.jadi = 'OthoJadiBot'
 
