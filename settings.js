@@ -38,18 +38,18 @@ global.baileys = 'V 6.7.8'
 global.vs = '2.0.7'
 global.languaje = 'Español'
 global.nameqr = 'Ai Otho'
-global.namebot = 'Ai Otho - MD'
+global.namebot = '𝐒𝐏𝐄𝐂𝐓𝐑𝐔𝐌 | 𝐀𝐈'
 global.sessions = 'OthoSession'
 global.jadi = 'OthoJadiBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ 𝐀𝐢 𝐎𝐭𝐡𝐨 - 𝐌𝐃 ✰⪜'
-global.botname = 'Ai Otho ✨️'
-global.wm = 'Otho 🌸'
-global.author = 'Made By DevDaniel 👑'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ძᥱ᥎ძᥲᥒіᥱᥣ ❀'
-global.textbot = 'Ai Otho : DevDanielu 🚩'
+global.packname = '𝐒𝐏𝐄𝐂𝐓𝐑𝐔𝐌 | 𝐀𝐈'
+global.botname = '𝐒𝐏𝐄𝐂𝐓𝐑𝐔𝐌 | 𝐀𝐈'
+global.wm = '𝐒𝐏𝐄𝐂𝐓𝐑𝐔𝐌 | 𝐀𝐈'
+global.author = '𝐒𝐏𝐄𝐂𝐓𝐑𝐔𝐌 | 𝐀𝐈'
+global.dev = '𝐒𝐏𝐄𝐂𝐓𝐑𝐔𝐌 | 𝐀𝐈'
+global.textbot = '𝐒𝐏𝐄𝐂𝐓𝐑𝐔𝐌 | 𝐀𝐈'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
